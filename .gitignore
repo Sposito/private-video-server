@@ -1,0 +1,5 @@
+videos/*
+venv/*
+chromedriver
+.idea/*
+.DS_Store
